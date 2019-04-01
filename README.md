@@ -1,3 +1,5 @@
+Fork from [https://github.com/wcandillon/react-native-expo-image-cache](https://github.com/wcandillon/react-native-expo-image-cache) using imports from bare expo workflow
+
 # React Native Image Cache and Progressive Loading
 
 
